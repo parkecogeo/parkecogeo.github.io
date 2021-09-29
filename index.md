@@ -15,7 +15,7 @@ Taejin is a research scientist at the [NASA Ames Research Center](https://www.na
 
 # Research Focus
 
-Taejin’s research focuses on the application of satellite- and airborne remote-sensing, in situ measurements, and process-based models to understand processes impacting terrestrial ecosystems and carbon cycle. He is currently working on two NASA funded projects: Carbon Monitoring System (CMS) and Global Ecosystem Dynamics Investigation (GEDI). Additionally, he has been actively interacting with researchers in the NEX team to build a global-scale geostationary satellite product suite (GeoNEX).
+Taejin’s research focuses on the application of satellite- and airborne remote-sensing, in situ measurements, and process-based models to understand processes impacting terrestrial ecosystems and carbon cycle. He is currently working on two NASA funded projects: [Carbon Monitoring System (CMS)](https://carbon.nasa.gov/) and [Global Ecosystem Dynamics Investigation (GEDI)](https://gedi.umd.edu/). Additionally, he has been actively interacting with researchers in the NEX team to build a global-scale geostationary satellite product suite ([GeoNEX](https://www.nasa.gov/geonex)).
 
 
 # Recent News
