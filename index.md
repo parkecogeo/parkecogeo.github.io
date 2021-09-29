@@ -30,6 +30,13 @@ He completed his BS and MS education at the [Korea University](https://eco.korea
 
 # Current Projects
 
+(2022-2024) Carbon monitoring system across Mexico: continued development and application at the national scale (NASA CMS, PI: Rodrigo Vargas, Co-I: **Park, T.**)
+
+(2021-2024) Monitoring and forecasting large-scale patterns of forest structure and carbon dynamics using field, remote sensing, and process-based models (NASA GEDIST, PI: **Park, T.**)
+
+(2019-2021) Carbon monitoring systems across Mexico to support implementation of REDD+: maximizing benefits and knowledge (NASA CMS, PI: Rodrigo Vargas, Co-I: **Park, T.**)
+
+
 
 
 
