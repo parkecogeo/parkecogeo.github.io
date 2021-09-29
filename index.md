@@ -15,7 +15,7 @@ My research is
 Taejin is a research scientist at the [NASA Ames Research Center](https://www.nasa.gov/ames/) and [Bay Area Environmental Research Institute](https://baeri.org/) within the [NASA Earth Exchange (NEX)](https://www.nasa.gov/nex) in Mountain View, CA. 
 
 
-He completed his BS and MS education at the [Korea University](https://eco.korea.ac.kr/) and his major of both BS/MS is in Environmental Science & Ecological Engineering. During the master’s program, Taejin joined the [Environmental Geopgraphic Information System and Remote Sensing Lab](https://www.egisrs.org/) lead by prof. dr. Woo-Kyun Lee. Taejin earned a Ph.D. in Environmental and Earth Science from Boston University in 2019 while working in the [Remote Sensing of Vegetation and Climate Research Group](https://sites.bu.edu/cliveg/) advised by [Ranga B. Myneni](https://www.bu.edu/earth/profiles/ranga-myneni/).
+He completed his BS and MS education at the [Korea University](https://eco.korea.ac.kr/) and his major of both BS/MS is in Environmental Science & Ecological Engineering. During the master’s program, Taejin joined the [Environmental Geopgraphic Information System and Remote Sensing Lab](https://www.egisrs.org/) lead by [Woo-Kyun Lee](https://eco.korea.ac.kr/professor-main-menu/professor-detail?id=28). Taejin earned a Ph.D. in Environmental and Earth Science from Boston University in 2019 while working in the [Remote Sensing of Vegetation and Climate Research Group](https://sites.bu.edu/cliveg/) advised by [Ranga B. Myneni](https://www.bu.edu/earth/profiles/ranga-myneni/).
 
 
 # Recent News
