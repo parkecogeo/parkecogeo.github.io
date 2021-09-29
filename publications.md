@@ -117,20 +117,5 @@ Jung S, Kwak D-A, **Park, T**  et al. (2011) Estimating Crown Variables of Indiv
 
 ## Conference Presentations
 
-**Vandal, T.**, Nemani, R. R., Wang, W., & Li, S. (2019, December). Transfer Learning to Generate True Color Images from GOES-16. In AGU Fall Meeting 2019. [AGU](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/608499).
-
-Duffy, K., Vandal, T., Li, S., Nemani, R. R., & Ganguly, A. R. (2019, December). Deep Learning Emulation of Atmospheric Correction for Geostationary Sensors. In AGU Fall Meeting 2019. [AGU](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/543801).
-
-Li, S., Wang, W., Hashimoto, H., **Vandal, T.**, Yao, J., & Nemani, R. R. (2019, December). Surface Reflectance Product from Geostationary Satellite. In AGU Fall Meeting 2019. [AGU](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/488058).
-
-**Vandal, T.**, Ganguly, S., Kodra, E., Dy, J., Michaelis, A., Nemani, R., & Ganguly, A. (2018). Image Super-Resolution and Uncertainty Quantification for Earth Science Data on NASA Earth Exchange AI Platform (Invited). In AGU Fall Meeting Abstracts.
-
-Ganguly, S., Kalia, S., Duffy, K., Collier, E., Shreekant, G., Li, S., Mukhopadhyay, S., Prabhat, **Vandal, T.**, Albert, A., Hashimoto, H., Wang, W., Lee, T., Choudhury, D., Michaelis, A., Saatchi, S., Tucker, C., & Nemani, R (2018). NEX-AI: A Cloud and HPC Agnostic Framework for Scaling Deep Learning and Machine Learning Applications for Earth Science. In AGU Fall Meeting Abstracts.
-
-Duffy, K., **Vandal, T.**, Li, S., Ganguly, S., Nemani, R., & Ganguly, A.,(2018). GOENEX: A Deep Learning Approach to Prediction of Surface Spectral Reflectance. In AGU Fall Meeting Abstracts.
-
-Wilson, A., **Vandal, T.**, Rieffel, E., & Nemani, R. (2018).Compressing Earth Science Datasets with Quantum-Assisted Machine Learning Algorithms. In AGU Fall Meeting Abstracts.
-
-Mage, M., Ganguly, S., **Vandal, T.**, Nemani, R. R., Li, S., Kalia, S., & Ganguly, A. R. (2017). Estimation of MODIS-like Surface-Spectral Reflectance from Geostationary Satellites using Deep Neural Networks. In AGU Fall Meeting Abstracts.- Duffy, K., Bhatia, U., Vandal, T., & Ganguly, A. R. (2017). The sensitivity of climate driven hydrologic models to statistical downscaling methods. In AGU Fall Meeting Abstracts.
-
+will be updated
 
