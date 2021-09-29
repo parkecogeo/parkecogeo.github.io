@@ -5,10 +5,6 @@ description:
 featured-img: assets/images/earth-wide.jpg
 ---
 
-## Dissertation
-
-**Park, T.**, “Toward a Better Understanding of Changes in Northern Vegetation Using Long-Term Remote Sensing Data”, 2019. Boston University. [Dissertation](./papers/park_dissertation_2019.pdf)
-
 
 ## Journal Publications
 
@@ -112,6 +108,14 @@ Cui G, Lee W-K, Kwak D-A, Choi S, **Park, T**  et al. (2011) Desertification mon
 Jung S, Kwak D-A, **Park, T**  et al. (2011) Estimating Crown Variables of Individual Trees Using Airborne and Terrestrial Laser Scanners. Remote Sensing, 3(11): 2346-2364
 
 **Park, T**  et al. (2011) Assessment of land cover change using GIS and remotely-sensed data: A case study in Ain Snoussi area of northern Tunisia. Forest Science and Technology, 7(2): 75-81.
+
+
+
+
+## Dissertation
+
+**Park, T.**, “Toward a Better Understanding of Changes in Northern Vegetation Using Long-Term Remote Sensing Data”, 2019. Boston University. [Dissertation](./papers/park_dissertation_2019.pdf)
+
 
 
 
