@@ -8,7 +8,8 @@ description: Remote Sensing of Global Environmental Change
 
 ---
 
-My research is 
+Taejin’s research focuses on the application of satellite- and airborne remote-sensing, in situ measurements, and process-based models to understand processes impacting terrestrial ecosystems and carbon cycle. He is currently working on two NASA funded projects: Carbon Monitoring System (CMS) and Global Ecosystem Dynamics Investigation (GEDI). Additionally, he has been actively interacting with researchers in the NEX team to build a global-scale geostationary satellite product suite (GeoNEX).
+
 
 # Bio
 
@@ -36,12 +37,3 @@ He completed his BS and MS education at the [Korea University](https://eco.korea
 
 (2019-2021) Carbon monitoring systems across Mexico to support implementation of REDD+: maximizing benefits and knowledge (NASA CMS, PI: Rodrigo Vargas, Co-I: **Park, T.**)
 
-
-
-
-
-
-
-# Twitter Feed
-------
-<a class="twitter-timeline" data-height="1000" data-dnt="true" href="https://twitter.com/parkecogeo?ref_src=twsrc%5Etfw">Tweets by parkecogeo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
