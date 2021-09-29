@@ -7,7 +7,7 @@ featured-img: assets/images/earth-wide.jpg
 
 ## Dissertation
 
-**Vandal, T.**, “Statistical Downscaling of Global Climate Models with Image Super-resolution and Uncertainty Quantification”, 2018. Northeastern University. [Dissertation](./papers/vandal_dissertation_2018.pdf)
+**Park, T.**, “Toward a Better Understanding of Changes in Northern Vegetation Using Long-Term Remote Sensing Data”, 2019. Boston University. [Dissertation](./papers/park_dissertation_2019.pdf)
 
 
 ## Journal Publications
