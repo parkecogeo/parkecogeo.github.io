@@ -18,10 +18,26 @@ Taejin is a research scientist at the [NASA Ames Research Center](https://www.na
 
 # Recent News
 
-<p>(September 2021) Paper titled "Location of studies and evidence of effects of herbivory on Arctic vegetation: a systematic map" published in Environmental Evidence. [[Paper]](https://ieeexplore.ieee.org/document/9462910).</p>
+<p>(September 2021) Paper titled "Location of studies and evidence of effects of herbivory on Arctic vegetation: a systematic map" published in Environmental Evidence. [[Paper]](https://environmentalevidencejournal.biomedcentral.com/).</p>
 
 
 # Selected Publications
+
+Piao S, Wang S, **Park, T** et al. (2020) Characteristics, drivers and feedbacks of global greening. Nature Reviews Earth & Environment, pp.1-14.
+
+**Park, T** et al. (2019) Changes in timing of seasonal peak photosynthetic activity in northern ecosystems. Global Change Biology,  doi:10.1111/gcb.14638.
+
+Chen C, **Park, T** et al. (2019) China and India Lead in Greening of the World through Land-use Management. Nature Sustainability, 2(2), p.122.
+
+**Park, T** et al. (2016) Changes in growing season duration and productivity of northern vegetation inferred from long-term remote sensing data. Environmental Research Letters. 
+
+Yan K, **Park, T**  et al. (2016). Evaluation of MODIS LAI/FPAR Product Collection 6. Part 1: Consistency and Improvements. Remote Sensing. 8(5):359.
+
+Yan K, **Park, T**  et al. (2016). Evaluation of MODIS LAI/FPAR Product Collection 6. Part 2: Validation and Intercomparison. Remote Sensing. 8(6):460.
+
+**Park, T**  et al. (2014) Unconstrained approach for isolating individual trees using high-resolution aerial imagery. International Journal of Remote Sensing, 35(1), 89-114.
+
+**Park, T**  et al. (2014) Application of physically-based slope correction for maximum forest canopy height estimation using waveform lidar across different footprint sizes and locations: Tests on LVIS and GLAS. Remote Sensing, 6(7), 6566-6586.
 
 **Park, T.** et al. (2021). "XXX. [[Paper]](https://ieeexplore.ieee.org/document/9511282) [[Code]](https://github.com/tjvandal/geostationary-superslomo) [[Video]](https://www.youtube.com/watch?v=NeMXPQw3CJU&ab_channel=ThomasVandal).
 
