@@ -10,61 +10,112 @@ featured-img: assets/images/earth-wide.jpg
 **Vandal, T.**, “Statistical Downscaling of Global Climate Models with Image Super-resolution and Uncertainty Quantification”, 2018. Northeastern University. [Dissertation](./papers/vandal_dissertation_2018.pdf)
 
 
-## Preprints
-
-Duffy, K., **Vandal, T.**, Wang, W., Nemani, R., & Ganguly, A. R. (2019). Deep Learning Emulation of Multi-Angle Implementation of Atmospheric Correction (MAIAC). arXiv preprint arXiv:1910.13408. [arXiv](https://arxiv.org/pdf/1910.13408).
-
-## Conference Papers
-
-Gao, N., Wilson, M., **Vandal, T.**, Vinci, W., Nemani, R., & Rieffel, E. "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder," Proceedings of the 26th ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining (Research Track, 16% acceptance rate). [Paper](https://www.kdd.org/kdd2020/accepted-papers/view/high-dimensional-similarity-search-with-quantum-assisted-variational-autoen)
-
-Nemani, R., Wang, W., Hshimoto, H., Michaelis, A., **Vandal, T.**, .. (2020). “GeoNEX: A geostationary earth observatory at NASA Earth eXchange: Earth monitoring from operational geostationary satellite systems.” IEEE International Geoscience and Remote Sensing Symposium. [Paper](https://igarss2020.org/view_paper.php?PaperNum=1427)
-
-
-**Vandal, T.**, Kodra, E., Ganguly, S., Dy, J., Nemani, R., & Ganguly, A (2018): “Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning,” Proceedings of the 24rd ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 1663-1672. (Research Track, 18% acceptance rate). [Paper](https://www.kdd.org/kdd2018/accepted-papers/view/quantifying-uncertainty-in-discrete-continuous-and-skewed-data-with-bayesia), [Code](https://github.com/tjvandal/discrete-continuous-bdl).
-
-**Vandal, T.**, Livingston, M., Piho, C., Zimmerman, S. (2018). “Prediction and Uncertainty Quantification of Daily Airport Flight Delays.” Proceedings of The 4th *International Conference on Predictive Applications and APIs*, in PMLR. [Paper](http://proceedings.mlr.press/v82/vandal18a/vandal18a.pdf).
-
-**Vandal, T.**, Kodra, E., Ganguly, S., Michaelis, A., Nemani, R., & Ganguly, A. (2018). “Generating High Resolution Climate Change Projections through Single Image Super-Resolution: An Abridged Version.” Proceedings of the Twenty-Seventh International *Joint Conference on Artificial Intelligence and Twenty-Third European Conference on Artificial Intelligence*, Sister Best Paper Track (**IJCAI** Invited Submission). [Paper](https://www.ijcai.org/proceedings/2018/0759.pdf).
-
-**Vandal, T.**, Kodra, E., Ganguly, S., Michaelis, A., Nemani, R., & Ganguly, A. (2017). “DeepSD: Generating high resolution climate change projections through single image super-Resolution,” KDD 2017, Proceedings of the 23rd ACM **SIGKDD** *Conference on Knowledge Discovery and Data Mining*, 1663-1672. (Runner-Up BEST PAPER Award and Runner-up BEST STUDENT PAPER Award in Applied Data Science Track, 9% oral acceptance rate). [Paper](https://www.kdd.org/kdd2017/papers/view/deepsd-generating-high-resolution-climate-change-projections-through-single), [Code](https://github.com/tjvandal/deepsd).
-
-**Vandal, T.**, McDuff, D., & Kaliouby, R. (2015), “Event Detection : Ultra Large-scale Clustering of Facial Expressions.” 11th IEEE *International Conference on Automatic Face and Gesture Recognition*, Ljubljana, Slovenia. [Paper](http://www.affectiva.com/wp-content/uploads/2017/03/Event-Detection-Ultra-Large-scale-Clustering-of-Facial-Expressions.pdf).
-
 ## Journal Publications
 
-**Vandal, T.** & Nemani, R. (2021). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". IEE Transactions on Neural Network and Learning Systems (TNNLS). Special issue on Special Issue on Deep Learning for Earth and Planetary Geosciences. [[Paper]](https://ieeexplore.ieee.org/document/9511282) [[Code]](https://github.com/tjvandal/geostationary-superslomo) [[Video]](https://www.youtube.com/watch?v=NeMXPQw3CJU&ab_channel=ThomasVandal).
 
-**Vandal, T.**, McDuff, D., Wang, W., Duffy, K., Michaelis, A., & Nemani, R. (2021) "Spectral Synthesis for Geostationary Satellite-to-Satellite Translation". IEEE Transactions on Geoscience and Remote Sensing. [Paper](https://ieeexplore.ieee.org/document/9462910)
+Hemming D.L et al. (including **Park, T**) (2021) Phenology of primary producers [in “State of the Climate in 2020”]. Bulletin of the American Meteorological Society. S108-S110.
 
-Wilson, M., **Vandal, T.**, Hogg, T., & Rieffel, E. (2021). "Quantum-assisted associative network: Applying quantum annealing in deep learning". Quantum Machine Intelligence [Paper](https://link.springer.com/article/10.1007/s42484-021-00047-9).
+Chen et al. (including **Park, T**)  Prototyping of LAI and FPAR Retrievals From GOES-16 Advanced Baseline Imager Data Using Global Optimizing Algorithm. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 14, pp.6937-6950.
 
-Konduri, V., **Vandal, T.**, Ganguly, S., & Ganguly, A. R. (2020). Data Science for Weather Impacts on Crop Yield. Frontiers in Sustainable Food Systems, 4, 52. [Paper](https://www.frontiersin.org/articles/10.3389/fsufs.2020.00052/full)
+Yan et al. (including **Park, T**) (2021) Performance stability of the MODIS and VIIRS LAI algorithms inferred from analysis of long time series of products. Remote Sensing of Environment. https://doi.org/10.1016/j.rse.2021.112438
 
-Li, S., Wang, W., Hashimoto, H., Xiong, J., **Vandal, T.**, Yao, J., Qian, L., Ichii, K., Lyapustin, A., Wang, Y., & Nemani, R., "First Provisional Land Surface Reflectance Product from Geostationary Satellite Himawari-8 AHI". *Remote Sensing*. December 12 2019. [DOI](https://doi.org/10.3390/rs11242990).
+Duncanson L. et al (including **Park, T**) (2021) Aboveground Woody Biomass Product Validation Good Practices Protocol. Version    1.0. In L. Duncanson, M. Disney, J. Armston, J. Nickeson, D. Minor, and F. Camacho (Eds.), Good Practices for    Satellite Derived Land Product Validation, (p. 236): Land Product Validation Subgroup (WGCV/CEOS),    doi:10.5067/doc/ceoswgcv/lpv/agb.001
 
-Duff, K., **Vandal, T.**, Li, S., Ganguly, S., Nemani, R., & Ganguly, A., "DeepEmSat: Deep Emulation for Satellite Data Mining." *Frontiers in Big Data*. December 10 2019. [Paper](https://www.frontiersin.org/articles/10.3389/fdata.2019.00042/full).
+Peano et al. (including **Park, T**) (2020) Plant phenology evaluation of CRESCENDO land surface models–Part I: start and end of growing season. Biogeosciences, pp.1-36.
 
-**Vandal, T.**, E. Kodra, and A. Ganguly, “Intercomparison of Machine Learning Methods for Statistical Downscaling: The Case of Daily and Extreme Precipitation.” *Theoretical and Applied Climatology*. September 2018. [Paper](https://link.springer.com/article/10.1007/s00704-018-2613-3).
+Frost G.V et al. (including **Park, T**) (2020) Tundra Greenness, NOAA Arctic Report Card 2020.
 
-## Workshop Papers
+**Park, T** (2020) Potential Lidar Height, Intensity, and Ratio Parameters for Plot Dominant Species Discrimination and Volume Estimation. Remote Sensing, 12(19), p.3266.
 
-**Vandal, T.** & Nemani, R. (2020). “Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data”.  1st ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data,
-Applications, and Systems (Best Spotlight Presentation).
+Hemming D.L et al. (including **Park, T**) (2020) Phenology of primary producers [in “State of the Climate in 2019”]. Bulletin of the American Meteorological Society. S95-S98.
 
-Duffy, K., **Vandal, T.**, Li, S., Ganguly, S., Nemani, R. & Ganguly, A. (2019). "DeepEmSat: Deep Emulation of Satellite Data Mining", SIGKDD workshop on Fragile Earth: Theory Guided Data Science to Enhance Scientific Discovery. 
+Li et al. (including **Park, T**) (2020) Mapping the yields of lignocellulosic bioenergy crops from observations. Earth Data.  , 12(2), pp.789-789.
 
-Koduri, V., **Vandal, T.**, Ganguly, S., & Ganguly, A. (2018). “Data Mining for Weather Impacts on Crop Yield”,  SIGKDD workshop on Fragile Earth: Theory Guided Data Science to Enhance Scientific Discovery. 
+Piao S, Wang S, **Park, T** et al. (2020) Characteristics, drivers and feedbacks of global greening. Nature Reviews Earth & Environment, pp.1-14.
 
-**Vandal, T.** & Ganguly, A. (2017), “Uncertainty Quantification of Statistical Downscaling using Bayesian Deep Learning.” 7th *International Workshop on Climate Informatics*, Boulder, CO. 
+Kim et al. (including **Park, T**) (2020) Species-and elevation-dependent productivity changes in East Asian temperate forests. Environmental Research Letters, 15(3), p.034012.
 
-Li, Y., Chang, Y., **Vandal, T.**,  Das, D., Ding, A., Ganguly,  A., & Dy, J. (2016), “Copula based covariate selection in climate for statistical downscaling", 5th *International Workshop on Climate Informatics*, Boulder, CO.
+Xu B, Li J, Park T et al. (2020) Improving leaf area index retrieval over heterogeneous surface mixed with water. Remote Sensing of Environment, 240, p.111700.
 
-## Book Chapters
+*Park T et al. (2019) Changes in timing of seasonal peak photosynthetic activity in northern ecosystems. Global Change Biology,  doi:10.1111/gcb.14638.
 
-**Vandal, T.**,  Bhatia, U., and Ganguly, A. (2017), “Statistical Downscaling in Climate with State of the Art Scalable Machine Learning.” Large-Scale Machine Learning in the Earth Sciences. Taylor & Francis. [Chapter](https://www.taylorfrancis.com/books/e/9781315371740/chapters/10.4324/9781315371740-4)
+Hemming D.L et al. (including **Park, T**) (2019) Phenology of terrestrial and freshwater primary producers [in “State of the Climate in 2018”]. Bulletin of the American Meteorological Society.
 
-## Conference Poster Presentations
+Tømmervik, H., Bjerke, J.W., **Park, T** et al. (2019): Legacies of historical exploitation of natural resources more important than summer warming for recent biomass increases in a boreal-arctic transition region. Ecosystems, p.1-18.
+
+Chen C, **Park, T** et al. (2019) China and India Lead in Greening of the World through Land-use Management. Nature Sustainability, 2(2), p.122.
+
+Epstein H, Bhatt U, Raynolds M, Walker D, Forbes B, Phoenix G, Bjerke J, Tømmervik H, Karlsen SR, Myneni R, **Park, T** et al.  (2018) Tundra Greenness, NOAA Arctic Report Card 2018.
+
+Song W, Knyazikhin Y, Wen G, Marshak A, Mõttus M, Yan K, Yang B, Xu B, **Park, T** et al. (2018)  Implications of Whole-Disc DSCOVR EPIC Spectral Observations for Estimating Earth’s Spectral Reflectivity Based on Low-Earth-Orbiting and Geostationary Observations. Remote Sensing. 10(10), p1594. 
+
+Epstein H, Bhatt U, Raynolds M, Walker D, Pinzon J, Tucker CJ, Forbes C, Horstkotte T, Macias-Fauria M, Martic A. Phoenix G, Bjerke J, Tømmervik H,  Fauchald P, Vickers H, Myneni R, **Park, T** et al.  (2018) Tundra greenness  [in “State of the Climate in 2017”].  Bulletin of the American Meteorological Society. 99 (8), S165–S169, doi:10.1175/2018BAMSStateoftheClimate.1.
+
+Hemming D.L, Abernethy R, Armitage C, Bolmgren K, Myneni R, **Park, T** et al. (2018) Phenology of terrestrial and freshwater primary producers [in “State of the Climate in 2017”]. Bulletin of the American Meteorological Society. 99 (8), S63-S66, doi:10.1175/2018BAMSStateoftheClimate.1.
+
+Xu B, Li J, **Park, T** et al. (2018) An integrated method for validating long-term leaf area index products using global networks of site-based measurements. Remote Sensing of Environment. 209, p134–151.
+
+Xu B, **Park, T** et al. (2018) Analysis of Global LAI/FPAR Products from VIIRS and MODIS Sensors for Spatio-temporal Consistency and Uncertainty over 2012-2016. Forests. 9(2), p.73.
+
+Yan K, **Park, T** et al. (2018) Generating Global Product of LAI and FPAR from SNPP–VIIRS Data: Theoretical Background and Implementation. IEEE Transactions on Geoscience and Remote Sensing.  DOI: 10.1109/TGRS.2017.2775247.
+
+Yue C, Ciais P, Bastos A, Chevallier F, Yin Y, Rödenbeck C, **Park, T** (2017). Vegetation greenness and land carbon flux anomalies associated with climate variations with a focus on the year 2015.  Atmospheric Chemistry and Physics Discussions.  17, 13903-13919.
+
+Ni X, Cao C, Zhou Y, Ding L, Choi S, Shi Y, **Park, T** et al. (2017). Estimation of Forest Biomass Patterns across Northeast China Based on Allometric Scale Relationship. Remote Sensing. 8(8), 288.
+
+Yang B, Knyazikhin Y, Mõttus M, Rautiainen M, Stenberg P, Yan L, Chen C, Yan K, Choi S, **Park, T** et al.  (2017). Estimation of leaf area index and its sunlit portion from DSCOVR EPIC data: Theoretical Basis. Remote Sensing of Environment. 198, 69-84.
+
+Fauchald P, **Park, T** et al. (2017). Arctic greening from warming promotes declines in caribou populations. Science Advances, 3(4), p.e1601365.
+
+Bastos A, Ciais P, **Park, T** et al. (2017.) Was the extreme Northern Hemisphere greening in 2015 predictable? Environmental Research Letters, 12(4), p.044016.
+
+Chen C, Knyazikhin Y, **Park, T** et al. (2017). Prototyping of LAI and FPAR Retrievals from MODIS Multi-Angle Implementation of Atmospheric Correction (MAIAC) Data. Remote Sensing, 9(4), p.370.
+
+**Park, T** et al. (2016) Changes in growing season duration and productivity of northern vegetation inferred from long-term remote sensing data. Environmental Research Letters. 
+
+Choi S, Kempes C, **Park, T** et al. (2016). Application of the metabolic scaling theory and water-energy balance equation to model large-scale patterns of maximum forest canopy height. Global Ecology and Biogeography. DOI: 10.1111/geb.12503.
+
+Yang B, Knyazikhin Y, Lin Y, Yan K, Chen C,**Park, T**  et al. (2016). Analyses of Impact of Needle Surface Properties on Estimation of Needle Absorption Spectrum: Case Study with Coniferous Needle and Shoot Samples. Remote Sensing. 8(7):563.
+
+Yan K, **Park, T**  et al. (2016). Evaluation of MODIS LAI/FPAR Product Collection 6. Part 1: Consistency and Improvements. Remote Sensing. 8(5):359.
+
+Yan K, **Park, T**  et al. (2016). Evaluation of MODIS LAI/FPAR Product Collection 6. Part 2: Validation and Intercomparison. Remote Sensing. 8(6):460.
+
+Bi J, Myneni R, Lyapustin A, Wang Y, **Park, T**  et al. (2016). Amazon Forests’ Response to Droughts: A Perspective from the MAIAC Product. Remote Sensing. 8(4):356.
+
+Wu J, Yao W, Choi S, **Park, T**  et al. (2015). A Comparative Study of Predicting DBH and Stem Volume of Individual Trees in a Temperate Forest Using Airborne Waveform LiDAR. Geoscience and Remote Sensing Letters, IEEE, 12(11), 2267-2271.
+
+Kim M, Lee W-K, Kim Y-S, Lim C-H, Song C, **Park, T**  et al. (2015) Impact of thinning intensity on the diameter and height growth of Larix kaempferi in central Korea. Forest Science & Technology, 1-11.
+
+Ni X, Zhou Y, Cao C, Wang X, Shi Y, **Park, T**  et al. (2015) Mapping forest canopy height over continental China using multi-source remote sensing data. Remote Sensing, 7, 8436-8452.
+
+Bi J, Knyazikhin Y, Choi S, **Park, T**  et al. (2015) Sunlight mediated seasonality in canopy structure and photosynthetic activity of Amazonian rainforests. Environ Research Letter, 10(6), 064014. 2015
+
+**Park, T**  et al. (2014) Application of physically-based slope correction for maximum forest canopy height estimation using waveform lidar across different footprint sizes and locations: Tests on LVIS and GLAS. Remote Sensing, 6(7), 6566-6586.
+
+Ni X, **Park, T**  et al. (2014) Allometric scaling and resource limitations model of tree heights: Part 3. model optimization and testing over continental China. Remote Sensing, 6(5), 3533-3553.
+
+**Park, T**  et al. (2014) Unconstrained approach for isolating individual trees using high-resolution aerial imagery. International Journal of Remote Sensing, 35(1), 89-114.
+
+Tømmervik H, Karlsen S.R, Nilsen L, Johansen B, Storvold R, Zmarz A, Beck P.S, Høgda K.A, Goetz S, **Park, T**  et al. (2014). Use of Unmanned Aircraft Systems (UAS) in a multi-scale vegetation index study of Arctic plant communities in Adventdalen on Svalbard. European Association of Remote Sensing Laboratories
+
+Lamchin M, **Park, T**  et al. (2014) Monitoring of Vegetation Dynamics in the Mongolia Using MODIS NDVIs and their Relationship to Rainfall by Natural Zone. Journal of the Indian Society of Remote Sensing, 43(2), 325-337.
+
+ Byun J, Lee W-K, Kim M, Kwak D-A, Kwak H, **Park, T**  et al. (2013) Radial growth response of Pinus densiflora and Quercus spp. to topographic and climatic factors in South Korea. Journal of Plant Ecology, 6(5), 380-392.
+
+Pujiono E, Kwak, D-A, Lee W-K, Sulistyanto, Kim S-R, Lee J-Y, Lee S-H, **Park, T**  et al. (2013). RGB-NDVI Color Composites for Monitoring the Change in Mangrove Area at the Maubesi Nature Reserve, Indonesia. Forest Science and Technology. 9(4): 171-179.
+
+**Park, T**  et al. (2012) Forest plot volume estimation using National Forest Inventory, Forest Type Map and Airborne LiDAR data.  Forest Science and Technology, 8(3): 89-98.
+
+Cui G, Lee W-K, Kwak D-A, Choi S, **Park, T**  et al. (2011) Desertification monitoring by LANDSAT TM satellite imagery. Forest Science and Technology, 7(3): 110-116. 
+
+Jung S, Kwak D-A, **Park, T**  et al. (2011) Estimating Crown Variables of Individual Trees Using Airborne and Terrestrial Laser Scanners. Remote Sensing, 3(11): 2346-2364
+
+**Park, T**  et al. (2011) Assessment of land cover change using GIS and remotely-sensed data: A case study in Ain Snoussi area of northern Tunisia. Forest Science and Technology, 7(2): 75-81.
+
+
+
+## Conference Presentations
 
 **Vandal, T.**, Nemani, R. R., Wang, W., & Li, S. (2019, December). Transfer Learning to Generate True Color Images from GOES-16. In AGU Fall Meeting 2019. [AGU](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/608499).
 
