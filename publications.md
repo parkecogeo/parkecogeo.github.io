@@ -109,9 +109,9 @@ Pujiono E, Kwak, D-A, Lee W-K, Sulistyanto, Kim S-R, Lee J-Y, Lee S-H, **Park, T
 
 Cui G, Lee W-K, Kwak D-A, Choi S, **Park, T**  et al. (2011) Desertification monitoring by LANDSAT TM satellite imagery. Forest Science and Technology, 7(3): 110-116. 
 
-Jung S, Kwak D-A, **Park, T**  et al. (2011) Estimating Crown Variables of Individual Trees Using Airborne and Terrestrial Laser Scanners. Remote Sensing, 3(11): 2346-2364
+[2] Jung S, Kwak D-A, **Park, T**  et al. (2011) Estimating Crown Variables of Individual Trees Using Airborne and Terrestrial Laser Scanners. Remote Sensing, 3(11): 2346-2364
 
-**Park, T**  et al. (2011) Assessment of land cover change using GIS and remotely-sensed data: A case study in Ain Snoussi area of northern Tunisia. Forest Science and Technology, 7(2): 75-81.
+[1] **Park, T**  et al. (2011) Assessment of land cover change using GIS and remotely-sensed data: A case study in Ain Snoussi area of northern Tunisia. Forest Science and Technology, 7(2): 75-81.
 
 
 
