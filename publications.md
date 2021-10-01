@@ -13,43 +13,43 @@ Hemming D.L et al. (including **Park, T**) (2021) Phenology of primary producers
 
 Chen et al. (including **Park, T**) Prototyping of LAI and FPAR Retrievals From GOES-16 Advanced Baseline Imager Data Using Global Optimizing Algorithm. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. [[Paper]](https://doi.org/10.1109/JSTARS.2021.3094647)
 
-Yan et al. (including **Park, T**) (2021) Performance stability of the MODIS and VIIRS LAI algorithms inferred from analysis of long time series of products. Remote Sensing of Environment. [[Paper]] (https://doi.org/10.1016/j.rse.2021.112438) 
+Yan et al. (including **Park, T**) (2021) Performance stability of the MODIS and VIIRS LAI algorithms inferred from analysis of long time series of products. Remote Sensing of Environment. [[Paper]](https://doi.org/10.1016/j.rse.2021.112438)
 
-Duncanson L. et al (including **Park, T**) (2021) Aboveground Woody Biomass Product Validation Good Practices Protocol. Version    1.0. In L. Duncanson, M. Disney, J. Armston, J. Nickeson, D. Minor, and F. Camacho (Eds.), Good Practices for    Satellite Derived Land Product Validation, (p. 236): Land Product Validation Subgroup (WGCV/CEOS) [[Paper]] (https://doi.org/10.5067/doc/ceoswgcv/lpv/agb.001)
+Duncanson L. et al (including **Park, T**) (2021) Aboveground Woody Biomass Product Validation Good Practices Protocol. Version    1.0. In L. Duncanson, M. Disney, J. Armston, J. Nickeson, D. Minor, and F. Camacho (Eds.), Good Practices for    Satellite Derived Land Product Validation, (p. 236): Land Product Validation Subgroup (WGCV/CEOS) [[Paper]](https://doi.org/10.5067/doc/ceoswgcv/lpv/agb.001)
 
-Peano et al. (including **Park, T**) (2020) Plant phenology evaluation of CRESCENDO land surface models–Part I: start and end of growing season. Biogeosciences, [[Paper]] (https://doi.org/10.5194/bg-18-2405-2021)
+Peano et al. (including **Park, T**) (2020) Plant phenology evaluation of CRESCENDO land surface models–Part I: start and end of growing season. Biogeosciences, [[Paper]](https://doi.org/10.5194/bg-18-2405-2021)
 
-Frost G.V et al. (including **Park, T**) (2020) Tundra Greenness, NOAA Arctic Report Card 2020. [[Paper]] (https://doi.org/10.25923/46rm-0w23G)
+Frost G.V et al. (including **Park, T**) (2020) Tundra Greenness, NOAA Arctic Report Card 2020. [[Paper]](https://doi.org/10.25923/46rm-0w23G)
 
-**Park, T** (2020) Potential Lidar Height, Intensity, and Ratio Parameters for Plot Dominant Species Discrimination and Volume Estimation. Remote Sensing, 12(19), p.3266.
+**Park, T** (2020) Potential Lidar Height, Intensity, and Ratio Parameters for Plot Dominant Species Discrimination and Volume Estimation. Remote Sensing, [[Paper]](https://doi.org/10.3390/rs12193266)
 
-Hemming D.L et al. (including **Park, T**) (2020) Phenology of primary producers [in “State of the Climate in 2019”]. Bulletin of the American Meteorological Society. S95-S98.
+Hemming D.L et al. (including **Park, T**) (2020) Phenology of primary producers [in “State of the Climate in 2019”]. Bulletin of the American Meteorological Society. [[Paper]](https://doi.org/10.1175/2020BAMSStateoftheClimate.1)
 
-Li et al. (including **Park, T**) (2020) Mapping the yields of lignocellulosic bioenergy crops from observations. Earth Data.  , 12(2), pp.789-789.
+Li et al. (including **Park, T**) (2020) Mapping the yields of lignocellulosic bioenergy crops from observations. Earth Data. [[Paper]](https://doi.org/10.5194/essd-12-789-2020)
 
-Piao S, Wang S, **Park, T** et al. (2020) Characteristics, drivers and feedbacks of global greening. Nature Reviews Earth & Environment, pp.1-14.
+Piao S, Wang S, **Park, T** et al. (2020) Characteristics, drivers and feedbacks of global greening. Nature Reviews Earth & Environment, [[Paper]](https://doi.org/10.1038/s43017-019-0001-x)
 
-Kim et al. (including **Park, T**) (2020) Species-and elevation-dependent productivity changes in East Asian temperate forests. Environmental Research Letters, 15(3), p.034012.
+Kim et al. (including **Park, T**) (2020) Species-and elevation-dependent productivity changes in East Asian temperate forests. Environmental Research Letters, [[Paper]](https://doi.org/10.1088/1748-9326/ab71a2)
 
-Xu B, Li J, Park T et al. (2020) Improving leaf area index retrieval over heterogeneous surface mixed with water. Remote Sensing of Environment, 240, p.111700.
+Xu B, Li J, Park T et al. (2020) Improving leaf area index retrieval over heterogeneous surface mixed with water. Remote Sensing of Environment, [[Paper]](https://doi.org/10.1016/j.rse.2020.111700)
 
-*Park T et al. (2019) Changes in timing of seasonal peak photosynthetic activity in northern ecosystems. Global Change Biology,  doi:10.1111/gcb.14638.
+*Park T et al. (2019) Changes in timing of seasonal peak photosynthetic activity in northern ecosystems. Global Change Biology, [[Paper]](https://doi.org/10.1111/gcb.14638)
 
-Hemming D.L et al. (including **Park, T**) (2019) Phenology of terrestrial and freshwater primary producers [in “State of the Climate in 2018”]. Bulletin of the American Meteorological Society.
+Hemming D.L et al. (including **Park, T**) (2019) Phenology of terrestrial and freshwater primary producers [in “State of the Climate in 2018”]. Bulletin of the American Meteorological Society. [[Paper]](https://doi.org/10.1175/2019BAMSStateoftheClimate.1)  
 
-Tømmervik, H., Bjerke, J.W., **Park, T** et al. (2019): Legacies of historical exploitation of natural resources more important than summer warming for recent biomass increases in a boreal-arctic transition region. Ecosystems, p.1-18.
+Tømmervik, H., Bjerke, J.W., **Park, T** et al. (2019): Legacies of historical exploitation of natural resources more important than summer warming for recent biomass increases in a boreal-arctic transition region. Ecosystems, [[Paper]](https://doi.org/10.1175/2019BAMSStateoftheClimate.1)  
 
-Chen C, **Park, T** et al. (2019) China and India Lead in Greening of the World through Land-use Management. Nature Sustainability, 2(2), p.122.
+Chen C, **Park, T** et al. (2019) China and India Lead in Greening of the World through Land-use Management. Nature Sustainability,  [[Paper]](https://doi.org/10.1038/s41893-019-0220-7)  
 
 Epstein H, Bhatt U, Raynolds M, Walker D, Forbes B, Phoenix G, Bjerke J, Tømmervik H, Karlsen SR, Myneni R, **Park, T** et al.  (2018) Tundra Greenness, NOAA Arctic Report Card 2018.
 
-Song W, Knyazikhin Y, Wen G, Marshak A, Mõttus M, Yan K, Yang B, Xu B, **Park, T** et al. (2018)  Implications of Whole-Disc DSCOVR EPIC Spectral Observations for Estimating Earth’s Spectral Reflectivity Based on Low-Earth-Orbiting and Geostationary Observations. Remote Sensing. 10(10), p1594. 
+Song W, Knyazikhin Y, Wen G, Marshak A, Mõttus M, Yan K, Yang B, Xu B, **Park, T** et al. (2018)  Implications of Whole-Disc DSCOVR EPIC Spectral Observations for Estimating Earth’s Spectral Reflectivity Based on Low-Earth-Orbiting and Geostationary Observations. Remote Sensing.  [[Paper]](https://doi.org/10.3390/rs10101594)  
 
-Epstein H, Bhatt U, Raynolds M, Walker D, Pinzon J, Tucker CJ, Forbes C, Horstkotte T, Macias-Fauria M, Martic A. Phoenix G, Bjerke J, Tømmervik H,  Fauchald P, Vickers H, Myneni R, **Park, T** et al.  (2018) Tundra greenness  [in “State of the Climate in 2017”].  Bulletin of the American Meteorological Society. 99 (8), S165–S169, doi:10.1175/2018BAMSStateoftheClimate.1.
+Epstein H, Bhatt U, Raynolds M, Walker D, Pinzon J, Tucker CJ, Forbes C, Horstkotte T, Macias-Fauria M, Martic A. Phoenix G, Bjerke J, Tømmervik H,  Fauchald P, Vickers H, Myneni R, **Park, T** et al.  (2018) Tundra greenness  [in “State of the Climate in 2017”].  Bulletin of the American Meteorological Society. 99 (8), S165–S169,  [[Paper]](https://doi.org/10.1175/2018BAMSStateoftheClimate.1) 
 
-Hemming D.L, Abernethy R, Armitage C, Bolmgren K, Myneni R, **Park, T** et al. (2018) Phenology of terrestrial and freshwater primary producers [in “State of the Climate in 2017”]. Bulletin of the American Meteorological Society. 99 (8), S63-S66, doi:10.1175/2018BAMSStateoftheClimate.1.
+Hemming D.L, Abernethy R, Armitage C, Bolmgren K, Myneni R, **Park, T** et al. (2018) Phenology of terrestrial and freshwater primary producers [in “State of the Climate in 2017”]. Bulletin of the American Meteorological Society. 99 (8), S63-S66,   [[Paper]](https://doi.org/10.1175/2018BAMSStateoftheClimate.1) 
 
-Xu B, Li J, **Park, T** et al. (2018) An integrated method for validating long-term leaf area index products using global networks of site-based measurements. Remote Sensing of Environment. 209, p134–151.
+Xu B, Li J, **Park, T** et al. (2018) An integrated method for validating long-term leaf area index products using global networks of site-based measurements. Remote Sensing of Environment. 209, p134–151. [[Paper]](https://doi.org/10.1016/j.rse.2018.02.049) 
 
 Xu B, **Park, T** et al. (2018) Analysis of Global LAI/FPAR Products from VIIRS and MODIS Sensors for Spatio-temporal Consistency and Uncertainty over 2012-2016. Forests. 9(2), p.73.
 
