@@ -9,17 +9,17 @@ featured-img: assets/images/earth-wide.jpg
 ## Journal Publications
 
 
-Hemming D.L et al. (including **Park, T**) (2021) Phenology of primary producers [in “State of the Climate in 2020”]. Bulletin of the American Meteorological Society. S108-S110.
+Hemming D.L et al. (including **Park, T**) (2021) Phenology of primary producers [in “State of the Climate in 2020”]. Bulletin of the American Meteorological Society. S108-S110. [[Paper]](https://doi.org/10.1175/BAMS-D-21-0098.1)
 
-Chen et al. (including **Park, T**)  Prototyping of LAI and FPAR Retrievals From GOES-16 Advanced Baseline Imager Data Using Global Optimizing Algorithm. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 14, pp.6937-6950.
+Chen et al. (including **Park, T**) Prototyping of LAI and FPAR Retrievals From GOES-16 Advanced Baseline Imager Data Using Global Optimizing Algorithm. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. [[Paper]](https://doi.org/10.1109/JSTARS.2021.3094647)
 
-Yan et al. (including **Park, T**) (2021) Performance stability of the MODIS and VIIRS LAI algorithms inferred from analysis of long time series of products. Remote Sensing of Environment. https://doi.org/10.1016/j.rse.2021.112438
+Yan et al. (including **Park, T**) (2021) Performance stability of the MODIS and VIIRS LAI algorithms inferred from analysis of long time series of products. Remote Sensing of Environment. [[Paper]] (https://doi.org/10.1016/j.rse.2021.112438) 
 
-Duncanson L. et al (including **Park, T**) (2021) Aboveground Woody Biomass Product Validation Good Practices Protocol. Version    1.0. In L. Duncanson, M. Disney, J. Armston, J. Nickeson, D. Minor, and F. Camacho (Eds.), Good Practices for    Satellite Derived Land Product Validation, (p. 236): Land Product Validation Subgroup (WGCV/CEOS),    doi:10.5067/doc/ceoswgcv/lpv/agb.001
+Duncanson L. et al (including **Park, T**) (2021) Aboveground Woody Biomass Product Validation Good Practices Protocol. Version    1.0. In L. Duncanson, M. Disney, J. Armston, J. Nickeson, D. Minor, and F. Camacho (Eds.), Good Practices for    Satellite Derived Land Product Validation, (p. 236): Land Product Validation Subgroup (WGCV/CEOS) [[Paper]] (https://doi.org/10.5067/doc/ceoswgcv/lpv/agb.001)
 
-Peano et al. (including **Park, T**) (2020) Plant phenology evaluation of CRESCENDO land surface models–Part I: start and end of growing season. Biogeosciences, pp.1-36.
+Peano et al. (including **Park, T**) (2020) Plant phenology evaluation of CRESCENDO land surface models–Part I: start and end of growing season. Biogeosciences, [[Paper]] (https://doi.org/10.5194/bg-18-2405-2021)
 
-Frost G.V et al. (including **Park, T**) (2020) Tundra Greenness, NOAA Arctic Report Card 2020.
+Frost G.V et al. (including **Park, T**) (2020) Tundra Greenness, NOAA Arctic Report Card 2020. [[Paper]] (https://doi.org/10.25923/46rm-0w23G)
 
 **Park, T** (2020) Potential Lidar Height, Intensity, and Ratio Parameters for Plot Dominant Species Discrimination and Volume Estimation. Remote Sensing, 12(19), p.3266.
 
