@@ -112,7 +112,7 @@ Tømmervik H, Karlsen S.R, Nilsen L, Johansen B, Storvold R, Zmarz A, Beck P.S, 
 
 Lamchin M, **Park, T**  et al. (2014) Monitoring of Vegetation Dynamics in the Mongolia Using MODIS NDVIs and their Relationship to Rainfall by Natural Zone. Journal of the Indian Society of Remote Sensing, 43(2), 325-337. [[Paper]](https://doi.org/10.1007/s12524-014-0366-8)
 
-### -2013
+### ~2013
 
  Byun J, Lee W-K, Kim M, Kwak D-A, Kwak H, **Park, T**  et al. (2013) Radial growth response of Pinus densiflora and Quercus spp. to topographic and climatic factors in South Korea. Journal of Plant Ecology, 6(5), 380-392. [[Paper]](https://doi.org/10.1093/jpe/rtt001)
 
