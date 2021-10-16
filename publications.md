@@ -10,6 +10,8 @@ featured-img: assets/images/earth-wide.jpg
 
 ### 2021
 
+Soininen E.M. et al. (including **Park, T**) (2021) Location of studies and evidence of effects of herbivory on Arctic vegetation: a systematic map. Environmental Evidence. [[Paper]](https://doi.org/10.1186/s13750-021-00240-0)
+
 Hemming D.L et al. (including **Park, T**) (2021) Phenology of primary producers [in “State of the Climate in 2020”]. Bulletin of the American Meteorological Society. S108-S110. [[Paper]](https://doi.org/10.1175/BAMS-D-21-0098.1)
 
 Chen et al. (including **Park, T**) Prototyping of LAI and FPAR Retrievals From GOES-16 Advanced Baseline Imager Data Using Global Optimizing Algorithm. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. [[Paper]](https://doi.org/10.1109/JSTARS.2021.3094647)
