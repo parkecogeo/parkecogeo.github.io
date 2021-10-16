@@ -20,7 +20,7 @@ Taejin’s research focuses on the application of satellite- and airborne remote
 
 ## Recent News
 
-<p>(September 2021) Paper titled "Location of studies and evidence of effects of herbivory on Arctic vegetation: a systematic map" published in Environmental Evidence. [[Paper]](https://environmentalevidencejournal.biomedcentral.com/).</p>
+<p>(September 2021) Paper titled "Location of studies and evidence of effects of herbivory on Arctic vegetation: a systematic map" published in Environmental Evidence. [[Paper]](https://doi.org/10.1186/s13750-021-00240-0).</p>
 
 
 ## Current Projects
