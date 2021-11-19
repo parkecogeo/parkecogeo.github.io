@@ -6,7 +6,7 @@ featured-img: assets/images/earth-wide.jpg
 ---
 
 
-## Journal Publications
+## Journal Publications (* corresponding author)
 
 ### 2021
 
@@ -26,7 +26,7 @@ Peano et al. (including **Park, T**) (2020) Plant phenology evaluation of CRESCE
 
 Frost G.V et al. (including **Park, T**) (2020) Tundra Greenness, NOAA Arctic Report Card 2020. [[Paper]](https://doi.org/10.25923/46rm-0w23G)
 
-**Park, T** (2020) Potential Lidar Height, Intensity, and Ratio Parameters for Plot Dominant Species Discrimination and Volume Estimation. Remote Sensing, [[Paper]](https://doi.org/10.3390/rs12193266)
+**Park, T*** (2020) Potential Lidar Height, Intensity, and Ratio Parameters for Plot Dominant Species Discrimination and Volume Estimation. Remote Sensing, [[Paper]](https://doi.org/10.3390/rs12193266)
 
 Hemming D.L et al. (including **Park, T**) (2020) Phenology of primary producers [in “State of the Climate in 2019”]. Bulletin of the American Meteorological Society. [[Paper]](https://doi.org/10.1175/2020BAMSStateoftheClimate.1)
 
@@ -40,7 +40,7 @@ Xu B, Li J, Park T et al. (2020) Improving leaf area index retrieval over hetero
 
 ### 2019
 
-*Park T et al. (2019) Changes in timing of seasonal peak photosynthetic activity in northern ecosystems. Global Change Biology, [[Paper]](https://doi.org/10.1111/gcb.14638)
+**Park, T*** al. (2019) Changes in timing of seasonal peak photosynthetic activity in northern ecosystems. Global Change Biology, [[Paper]](https://doi.org/10.1111/gcb.14638)
 
 Hemming D.L et al. (including **Park, T**) (2019) Phenology of terrestrial and freshwater primary producers [in “State of the Climate in 2018”]. Bulletin of the American Meteorological Society. [[Paper]](https://doi.org/10.1175/2019BAMSStateoftheClimate.1)  
 
@@ -58,11 +58,11 @@ Epstein H, Bhatt U, Raynolds M, Walker D, Pinzon J, Tucker CJ, Forbes C, Horstko
 
 Hemming D.L, Abernethy R, Armitage C, Bolmgren K, Myneni R, **Park, T** et al. (2018) Phenology of terrestrial and freshwater primary producers [in “State of the Climate in 2017”]. Bulletin of the American Meteorological Society. 99 (8), S63-S66,   [[Paper]](https://doi.org/10.1175/2018BAMSStateoftheClimate.1) 
 
-Xu B, Li J, **Park, T** et al. (2018) An integrated method for validating long-term leaf area index products using global networks of site-based measurements. Remote Sensing of Environment. 209, p134–151. [[Paper]](https://doi.org/10.1016/j.rse.2018.02.049) 
+Xu B, Li J, **Park, T*** et al. (2018) An integrated method for validating long-term leaf area index products using global networks of site-based measurements. Remote Sensing of Environment. 209, p134–151. [[Paper]](https://doi.org/10.1016/j.rse.2018.02.049) 
 
-Xu B, **Park, T** et al. (2018) Analysis of Global LAI/FPAR Products from VIIRS and MODIS Sensors for Spatio-temporal Consistency and Uncertainty over 2012-2016. Forests. 9(2), p.73. [[Paper]](https://doi.org/10.3390/f9020073)
+Xu B, **Park, T*** et al. (2018) Analysis of Global LAI/FPAR Products from VIIRS and MODIS Sensors for Spatio-temporal Consistency and Uncertainty over 2012-2016. Forests. 9(2), p.73. [[Paper]](https://doi.org/10.3390/f9020073)
 
-Yan K, **Park, T** et al. (2018) Generating Global Product of LAI and FPAR from SNPP–VIIRS Data: Theoretical Background and Implementation. IEEE Transactions on Geoscience and Remote Sensing. [[Paper]](https://doi.org/10.1109/TGRS.2017.2775247)
+Yan K, **Park, T*** et al. (2018) Generating Global Product of LAI and FPAR from SNPP–VIIRS Data: Theoretical Background and Implementation. IEEE Transactions on Geoscience and Remote Sensing. [[Paper]](https://doi.org/10.1109/TGRS.2017.2775247)
 
 ### 2017
 
@@ -80,13 +80,13 @@ Chen C, Knyazikhin Y, **Park, T** et al. (2017). Prototyping of LAI and FPAR Ret
 
 ### 2016
 
-**Park, T** et al. (2016) Changes in growing season duration and productivity of northern vegetation inferred from long-term remote sensing data. Environmental Research Letters.  [[Paper]](https://doi.org/10.1088/1748-9326/11/8/084001)
+**Park, T*** et al. (2016) Changes in growing season duration and productivity of northern vegetation inferred from long-term remote sensing data. Environmental Research Letters.  [[Paper]](https://doi.org/10.1088/1748-9326/11/8/084001)
 
 Choi S, Kempes C, **Park, T** et al. (2016). Application of the metabolic scaling theory and water-energy balance equation to model large-scale patterns of maximum forest canopy height. Global Ecology and Biogeography.  [[Paper]](https://doi.org/10.1111/geb.12503)
 
 Yang B, Knyazikhin Y, Lin Y, Yan K, Chen C,**Park, T**  et al. (2016). Analyses of Impact of Needle Surface Properties on Estimation of Needle Absorption Spectrum: Case Study with Coniferous Needle and Shoot Samples. Remote Sensing. 8(7):563. [[Paper]](https://doi.org/10.3390/rs8070563)
 
-Yan K, **Park, T**  et al. (2016). Evaluation of MODIS LAI/FPAR Product Collection 6. Part 1: Consistency and Improvements. Remote Sensing. 8(5):359.  [[Paper]](https://doi.org/10.3390/rs8050359)
+Yan K, **Park, T***  et al. (2016). Evaluation of MODIS LAI/FPAR Product Collection 6. Part 1: Consistency and Improvements. Remote Sensing. 8(5):359.  [[Paper]](https://doi.org/10.3390/rs8050359)
 
 Yan K, **Park, T**  et al. (2016). Evaluation of MODIS LAI/FPAR Product Collection 6. Part 2: Validation and Intercomparison. Remote Sensing. 8(6):460. [[Paper]](https://doi.org/10.3390/rs8060460)
 
@@ -104,11 +104,11 @@ Bi J, Knyazikhin Y, Choi S, **Park, T**  et al. (2015) Sunlight mediated seasona
 
 ### 2014
 
-**Park, T**  et al. (2014) Application of physically-based slope correction for maximum forest canopy height estimation using waveform lidar across different footprint sizes and locations: Tests on LVIS and GLAS. Remote Sensing, 6(7), 6566-6586. [[Paper]](https://doi.org/10.3390/rs6076566)
+**Park, T***  et al. (2014) Application of physically-based slope correction for maximum forest canopy height estimation using waveform lidar across different footprint sizes and locations: Tests on LVIS and GLAS. Remote Sensing, 6(7), 6566-6586. [[Paper]](https://doi.org/10.3390/rs6076566)
 
-Ni X, **Park, T**  et al. (2014) Allometric scaling and resource limitations model of tree heights: Part 3. model optimization and testing over continental China. Remote Sensing, 6(5), 3533-3553. [[Paper]](https://doi.org/10.3390/rs6053533)
+Ni X, **Park, T***  et al. (2014) Allometric scaling and resource limitations model of tree heights: Part 3. model optimization and testing over continental China. Remote Sensing, 6(5), 3533-3553. [[Paper]](https://doi.org/10.3390/rs6053533)
 
-**Park, T**  et al. (2014) Unconstrained approach for isolating individual trees using high-resolution aerial imagery. International Journal of Remote Sensing, 35(1), 89-114. [[Paper]](https://doi.org/10.1080/01431161.2013.862603)
+**Park, T***  et al. (2014) Unconstrained approach for isolating individual trees using high-resolution aerial imagery. International Journal of Remote Sensing, 35(1), 89-114. [[Paper]](https://doi.org/10.1080/01431161.2013.862603)
 
 Tømmervik H, Karlsen S.R, Nilsen L, Johansen B, Storvold R, Zmarz A, Beck P.S, Høgda K.A, Goetz S, **Park, T**  et al. (2014). Use of Unmanned Aircraft Systems (UAS) in a multi-scale vegetation index study of Arctic plant communities in Adventdalen on Svalbard. European Association of Remote Sensing Laboratories [[Paper]](http://dx.doi.org/10.12760/02-2014-1-09)
 
