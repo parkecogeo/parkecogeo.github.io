@@ -8,6 +8,11 @@ featured-img: assets/images/earth-wide.jpg
 
 ## Journal Publications (* corresponding author)
 
+
+### 2022
+
+Wang W. et al. (including **Park, T**) (2022) A Novel Atmospheric Correction Algorithm to Exploit the Diurnal Variability in Hypertemporal Geostationary Observations. Remote Sensing. [[Paper]](https://doi.org/10.3390/rs14040964)
+
 ### 2021
 
 Frost G.V. et al. (including **Park, T**) (2021) Tundra Greenness, NOAA Arctic Report Card 2021. [[Paper]](https://arctic.noaa.gov/Portals/7/ArcticReportCard/Documents/ArcticReportCard_full_report2021.pdf)
