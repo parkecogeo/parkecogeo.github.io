@@ -20,6 +20,9 @@ Taejin’s research focuses on the application of satellite- and airborne remote
 
 ## Recent News
 
+
+(February 2022) Paper titled "A Novel Atmospheric Correction Algorithm to Exploit the Diurnal Variability in Hypertemporal Geostationary Observations" published in Remote Sensing. [[Paper]](https://doi.org/10.3390/rs14040964)
+
 (December 2021) Our annual Arctic Report Card covering changes in Tundra vegetation greenness published. [[Paper]](https://arctic.noaa.gov/Portals/7/ArcticReportCard/Documents/ArcticReportCard_full_report2021.pdf). Here is a released video. [[Video]](https://youtu.be/_WbWjLUTvZM)
 
 (September 2021) Paper titled "Location of studies and evidence of effects of herbivory on Arctic vegetation: a systematic map" published in Environmental Evidence. [[Paper]](https://doi.org/10.1186/s13750-021-00240-0)
