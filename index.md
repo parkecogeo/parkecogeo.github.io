@@ -28,9 +28,13 @@ Taejin’s research focuses on the application of satellite- and airborne remote
 (September 2021) Paper titled "Location of studies and evidence of effects of herbivory on Arctic vegetation: a systematic map" published in Environmental Evidence. [[Paper]](https://doi.org/10.1186/s13750-021-00240-0)
 
 
-## Current Projects
+## Projects
 
-(2022-2024) Carbon monitoring system across Mexico: continued development and application at the national scale (NASA CMS, PI: Rodrigo Vargas, Co-I: **Park, T.**)
+(2022-2024) A Path Towards Quantum-Computing-Assisted Earth Science Data Acquisition Tasking and Processing (NASA AIST, PI: Shon Grabbe, Participated as Co-I: **Park, T.**)
+
+(2022-2025) Carbon monitoring system across Mexico: continued development and application at the national scale (NASA CMS, PI: Rodrigo Vargas, Co-I: **Park, T.**)
+
+(2022-2023) Urgent computing using a hybrid Cloud-HPC architecture for streaming satellite data analysis and event-driven modeling (PI: Robert Bergstrom, Participated as Co-I: **Park, T.**)
 
 (2021-2024) Monitoring and forecasting large-scale patterns of forest structure and carbon dynamics using field, remote sensing, and process-based models (NASA GEDIST, PI: **Park, T.**)
 
@@ -39,6 +43,8 @@ Taejin’s research focuses on the application of satellite- and airborne remote
 
 
 ## Selected Publications
+
+**Park, T** et al. (2022) What does global land climate look like at 2 degrees warming?. Earth's Future, [[Paper]]([https://doi.org/10.1029/2022EF003330])
 
 Piao S, Wang S, **Park, T** et al. (2020) Characteristics, drivers and feedbacks of global greening. Nature Reviews Earth & Environment, [[Paper]](https://doi.org/10.1038/s43017-019-0001-x)
 
@@ -60,4 +66,6 @@ Yan K, **Park, T**  et al. (2016). Evaluation of MODIS LAI/FPAR Product Collecti
 
 
 
-Latest update: 2021-10-05
+
+
+Latest update: 2023-01-01
