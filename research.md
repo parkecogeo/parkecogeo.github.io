@@ -5,7 +5,7 @@ description:
 ---
 
 
-# Downscaling global climate projection - Climate change impact assessment <br>
+## Downscaling global climate projection - Climate change impact assessment
 
 
 
@@ -15,7 +15,7 @@ description:
 
 
 
-# Climate-vegeation-human interaction <br>
+# Climate-vegeation-human interaction
 
 
 
@@ -25,4 +25,4 @@ description:
 
 
 
-# Remote sensing of vegetation structure and carbon dynamics <br>
+# Remote sensing of vegetation structure and carbon dynamics
