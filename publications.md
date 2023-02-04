@@ -9,7 +9,18 @@ featured-img: assets/images/earth-wide.jpg
 ## Journal Publications (* corresponding author)
 
 
+### 2023
+
+**Park, T*** al. (2023) Characterizing spatial burn severity patterns of 2016 Chimney Tops 2 fire using multi-temporal Landsat and NEON LiDAR data. Frontiers in Remote Sensing, [[Paper]] 
+
+Pu et al. (including**Park, T**) Improving the MODIS LAI Compositing Using Prior Time-series Information, Remote Sensing of Environment, [[Paper]] 
+
+
 ### 2022
+
+**Park, T*** al. (2022) What does global land climate look like at 2 degrees warming?. Earth's Futre, [[Paper]](https://doi.org/10.1029/2022EF003330)
+
+Yu et al. (including **Park, T**) (2022) Making the US National Forest Inventory Spatially Contiguous and Temporally Consistent. Environmental Research Letters. [[Paper]](https://doi.org/10.1088/1748-9326/ac6b47)
 
 Wang W. et al. (including **Park, T**) (2022) A Novel Atmospheric Correction Algorithm to Exploit the Diurnal Variability in Hypertemporal Geostationary Observations. Remote Sensing. [[Paper]](https://doi.org/10.3390/rs14040964)
 
