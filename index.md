@@ -44,7 +44,7 @@ Taejin’s research focuses on the application of satellite- and airborne remote
 
 ## Selected Publications
 
-**Park, T** et al. (2022) What does global land climate look like at 2 degrees warming?. Earth's Future, [[Paper]]([https://doi.org/10.1029/2022EF003330])
+**Park, T** et al. (2022) What does global land climate look like at 2 degrees warming?. Earth's Future, [[Paper]](https://doi.org/10.1029/2022EF003330)
 
 Piao S, Wang S, **Park, T** et al. (2020) Characteristics, drivers and feedbacks of global greening. Nature Reviews Earth & Environment, [[Paper]](https://doi.org/10.1038/s43017-019-0001-x)
 
