@@ -21,6 +21,13 @@ description:
 
 ## Remote sensing of vegetation structure and carbon dynamics
   ### Current project
+  [2023 to 2026 | NASA] Flux Towers on Geostationary Orbits: Resolving Diurnal Cycles of Terrestrial Vegetation Processes with Hypertemporal Geostationary Data Streams (PI: Weile Wang, Participated as Co-I)
+  
+  [2022 to 2025 | NASA] Carbon monitoring system across Mexico: continued development and application at the national scale (NASA CMS, PI: Rodrigo Vargas, Participated as Co-I)
+
+  [2021 to 2024 | NASA] Monitoring and forecasting large-scale patterns of forest structure and carbon dynamics using field, remote sensing, and process-based models (NASA GEDIST, PI: Taejin Park)
+
+  
   ![alt text](assets/images/Park_Figure2.png "Logo Title Text 2")
 
 
