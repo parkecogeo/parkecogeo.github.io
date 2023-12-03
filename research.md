@@ -15,7 +15,7 @@ My research vision is ‘Creating actionable environmental and ecological inform
 ## Research Focus 1: Climate-vegeation-human interaction
   ### * Current projects
   [2024 to 2027 | CNRA & CARB] Wildfire, Ecosystem Resilience & Climate Monitoring & Assessment Initiative (WERC) (Project Scientist: Taejin Park)
-
+  ![alt text](assets/images/Park_Dist_example.png "Logo Title Text 2")
 
 
 <br>
