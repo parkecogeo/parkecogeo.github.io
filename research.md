@@ -33,7 +33,7 @@ My research vision is ‘Creating actionable environmental and ecological inform
 
 ## Climate change impact assessment
   ### * Current projects
-  ![alt text](assets/images/Park_Figure2.png "Logo Title Text 2")
+  ![alt text](assets/images/Park_Figure_FWI.gif "Logo Title Text 2")
 
 
 
