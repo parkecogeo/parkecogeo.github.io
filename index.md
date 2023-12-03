@@ -31,9 +31,9 @@ My research vision is ‘Creating actionable environmental and ecological inform
 
 ## Selected Publications
 
-**Park, T** et al. (2023) Greening of human-dominated ecosystems in India. Nature Communications Earth & Environment, [[Paper]]([https://doi.org/10.1029/2022EF003330](https://doi.org/10.1038/s43247-023-01078-9))
+**Park, T** et al. (2023) Greening of human-dominated ecosystems in India. Nature Communications Earth & Environment, [[Paper]](https://doi.org/10.1038/s43247-023-01078-9)
 
-**Park, T** et al. (2022) What does global land climate look like at 2 degrees warming?. Earth's Future, [[Paper]](https://doi.org/10.1029/2022EF003330)
+Zeng Y, Hao D, **Park, T** et al. (2023) Structural complexity biases vegetation greenness measures. Nature Ecology & Evolution, [[Paper]](https://doi.org/10.1038/s41559-023-02187-6)
 
 **Park, T** et al. (2022) What does global land climate look like at 2 degrees warming?. Earth's Future, [[Paper]](https://doi.org/10.1029/2022EF003330)
 
