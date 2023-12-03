@@ -42,6 +42,8 @@ My research vision is ‘Creating actionable environmental and ecological inform
 
 ## Research Focus 3: Climate change impact assessment
   ### * Current projects
+  [2023 to 2028 | NASA] NEX-Core National Climate Assessment Support Activity (PI: Ian. G. Brosnan, Participated as Researcher)
+  
   ![alt text](assets/images/Park_Figure_FWI.gif "Logo Title Text 2")
 
 
