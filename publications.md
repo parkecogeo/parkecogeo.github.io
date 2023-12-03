@@ -17,11 +17,11 @@ Zeng Y, Hao D, **Park, T** et al. (2023) Structural complexity biases vegetation
 
 **Park, T** et al. (2023) What does global land climate look like at 2 degrees warming?. Earth's Future, [[Paper]](https://doi.org/10.1029/2022EF003330)
 
-**Park, T*** al. (2023) Characterizing spatial burn severity patterns of 2016 Chimney Tops 2 fire using multi-temporal Landsat and NEON LiDAR data. Frontiers in Remote Sensing, [[Paper]] 
+**Park, T*** al. (2023) Characterizing spatial burn severity patterns of 2016 Chimney Tops 2 fire using multi-temporal Landsat and NEON LiDAR data. Frontiers in Remote Sensing, [[Paper]](https://doi.org/10.3389/frsen.2023.1096000)
 
 Ryoo, R & **Park, T**. (2023) Contrasting characteristics of atmospheric rivers and their impacts on 2016 and 2020 wildfire seasons over the western United States. Environmental Research Letters, [[Paper]](https://doi.org/10.1088/1748-9326/acd948)
 
-Pu et al. (including**Park, T**) Improving the MODIS LAI Compositing Using Prior Time-series Information, Remote Sensing of Environment, [[Paper]] 
+Pu et al. (including**Park, T**) Improving the MODIS LAI Compositing Using Prior Time-series Information, Remote Sensing of Environment, [[Paper]](https://doi.org/10.1016/j.rse.2023.113493) 
 
 
 ### 2022
