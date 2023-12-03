@@ -21,6 +21,7 @@ My research vision is ‘Creating actionable environmental and ecological inform
 <br>
 <br>
 <br>
+
 ## Research Focus 2: Remote sensing of vegetation structure and carbon dynamics
   ### * Current projects
   [2023 to 2026 | NASA] Flux Towers on Geostationary Orbits: Resolving Diurnal Cycles of Terrestrial Vegetation Processes with Hypertemporal Geostationary Data Streams (PI: Weile Wang, Participated as Co-I)
@@ -38,6 +39,7 @@ My research vision is ‘Creating actionable environmental and ecological inform
 <br>
 <br>
 <br>
+
 ## Research Focus 3: Climate change impact assessment
   ### * Current projects
   ![alt text](assets/images/Park_Figure_FWI.gif "Logo Title Text 2")
