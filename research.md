@@ -10,7 +10,7 @@ description:
 ![alt text](assets/images/Park_Figure1.png "Logo Title Text 1")
 
 ## Climate-vegeation-human interaction
-  ### Current project
+  ### * Current projects
 
 
 
@@ -20,7 +20,7 @@ description:
 
 
 ## Remote sensing of vegetation structure and carbon dynamics
-  ### Current project
+  ### * Current projects
   [2023 to 2026 | NASA] Flux Towers on Geostationary Orbits: Resolving Diurnal Cycles of Terrestrial Vegetation Processes with Hypertemporal Geostationary Data Streams (PI: Weile Wang, Participated as Co-I)
   
   [2022 to 2025 | NASA] Carbon monitoring system across Mexico: continued development and application at the national scale (NASA CMS, PI: Rodrigo Vargas, Participated as Co-I)
@@ -35,7 +35,7 @@ description:
 
 
 ## Climate change impact assessment
-  ### Current project
+  ### * Current projects
 
 
 
