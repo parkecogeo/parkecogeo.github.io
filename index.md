@@ -21,7 +21,7 @@ My research vision is ‘Creating actionable environmental and ecological inform
 ## Recent News
 
 
-(August 2023) Our paper investigating 2-degree global warming is featured in NASA [[Press]](https://www.nasa.gov/centers-and-facilities/ames/nasa-study-reveals-compounding-climate-risks-at-two-degrees-of-warming/) and many media outlets.
+(August 2023) Our paper investigating impacts of 2-degree global warming on global land is featured in NASA [[Press]](https://www.nasa.gov/centers-and-facilities/ames/nasa-study-reveals-compounding-climate-risks-at-two-degrees-of-warming/) and many media outlets.
 
 
 ## Selected Publications
