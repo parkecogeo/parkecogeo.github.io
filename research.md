@@ -13,7 +13,7 @@ My research vision is ‘Creating actionable environmental and ecological inform
 <br>
 
 ## Research Focus 1: Climate-vegeation-human interaction
-  ### * Current projects
+  ### Current projects
   
   <br>
   
@@ -26,7 +26,7 @@ My research vision is ‘Creating actionable environmental and ecological inform
 <br>
 
 ## Research Focus 2: Remote sensing of vegetation structure and carbon dynamics
-  ### * Current projects 
+  ### Current projects 
   
   <br>
   
@@ -47,7 +47,7 @@ My research vision is ‘Creating actionable environmental and ecological inform
 <br>
 
 ## Research Focus 3: Climate change impact assessment
-  ### * Current projects 
+  ### Current projects 
   
   <br>
   
