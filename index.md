@@ -15,7 +15,7 @@ I'm a research scientist at the [NASA Ames Research Center](https://www.nasa.gov
 
 ## Research Focus
 
-My research vision is ‘Creating actionable environmental and ecological information to make our society and ecosystem more just and sustainable’. To achieve this goal, my research uses multi-platform remote-sensing, in situ measurements, and process-based models to understand processes impacting ecosystems and works closely with end-users to make effective and impactful plans and actions. I've been working on two NASA funded projects: [Carbon Monitoring System (CMS)](https://carbon.nasa.gov/) and [Global Ecosystem Dynamics Investigation (GEDI)](https://gedi.umd.edu/). Additionally, I've been actively interacting with researchers in the NEX team to build a global-scale geostationary satellite product suite ([GeoNEX](https://www.nasa.gov/geonex)).
+My research vision is ‘Creating actionable environmental and ecological information to make our society and ecosystem more just and sustainable’. To achieve this goal, my research uses multi-platform remote-sensing, in situ measurements, and process-based models to understand processes impacting ecosystems and works closely with end-users to make effective and impactful plans and actions. I've been working on two NASA funded projects: [Carbon Monitoring System (CMS)](https://carbon.nasa.gov/) and [Global Ecosystem Dynamics Investigation (GEDI)](https://gedi.umd.edu/). Additionally, I've been actively interacting with researchers in the NEX team to build a global-scale geostationary satellite product suite ([GeoNEX](https://www.nasa.gov/nasa-earth-exchange-nex/earth-observations-geonex/)).
 
 
 ## Recent News
