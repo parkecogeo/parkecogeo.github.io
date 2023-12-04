@@ -3,6 +3,8 @@ layout: default
 title: Research 
 description: 
 ---
+<pre>
+  
 ## Research Vision
 
 My research vision is **‘Creating actionable environmental and ecological information to make our society and ecosystem more just and sustainable’**. To achieve this goal, my research uses multi-platform remote-sensing, in situ measurements, and process-based models to understand processes impacting ecosystems and works closely with end-users to make effective and impactful plans and actions (see below schematic diagram). 
@@ -55,7 +57,7 @@ My research vision is **‘Creating actionable environmental and ecological info
   
   ![alt text](assets/images/Park_Figure_FWI.gif "Logo Title Text 2")
 
-
+</pre>
 
 
 
