@@ -4,16 +4,15 @@ title: Research
 description: 
 ---
   
-## Research Vision
+## Vision
 
 My research vision is **‘Creating actionable environmental and ecological information to make our society and ecosystem more just and sustainable’**. To achieve this goal, my research uses multi-platform remote-sensing, in situ measurements, and process-based models to understand processes impacting ecosystems and works closely with end-users to make effective and impactful plans and actions (see below schematic diagram). 
 
 ![alt text](assets/images/Park_Figure1.png "Logo Title Text 1")
 <br>
 <br>
-<br>
 
-## Research Focus 1: Climate-vegeation-human interaction
+## Focus 1: Climate-vegeation-human interaction
   ### Current projects
   
   [2024 to 2027 - CNRA & CARB] Wildfire, Ecosystem Resilience & Climate Monitoring & Assessment Initiative (WERC) (Project Scientist: Taejin Park)
@@ -22,9 +21,8 @@ My research vision is **‘Creating actionable environmental and ecological info
 
 <br>
 <br>
-<br>
 
-## Research Focus 2: Remote sensing of vegetation structure and carbon dynamics
+## Focus 2: Remote sensing of vegetation structure and carbon dynamics
   ### Current projects 
   
   [2023 to 2026 - NASA] Flux Towers on Geostationary Orbits: Resolving Diurnal Cycles of Terrestrial Vegetation Processes with Hypertemporal Geostationary Data Streams (PI: Weile Wang, Participated as Co-I)
@@ -36,14 +34,10 @@ My research vision is **‘Creating actionable environmental and ecological info
   
   ![alt text](assets/images/Park_Figure2.png "Logo Title Text 2")
 
-
-
-
-<br>
 <br>
 <br>
 
-## Research Focus 3: Climate change impact assessment
+## Focus 3: Climate change impact assessment
   ### Current projects 
   
   [2023 to 2028 - NASA] NEX-Core National Climate Assessment Support Activity (PI: Ian. G. Brosnan, Participated as Researcher)
