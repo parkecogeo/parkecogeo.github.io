@@ -57,4 +57,4 @@ Yan K, **Park, T**  et al. (2016). Evaluation of MODIS LAI/FPAR Product Collecti
 
 
 
-Latest update: 2023-01-01
+Latest update: 2023-12-01
