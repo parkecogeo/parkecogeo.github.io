@@ -20,6 +20,8 @@ My research vision is ‘Creating actionable environmental and ecological inform
 
 ## Recent News
 
+(November 2023) Our paper answering the role of human land management in global greening published in Nature Communications Earth & Environment. We used India as a simplified case and found that land surface models struggle to reproduce the greening trend and its drivers. [[Paper]](https://doi.org/10.1038/s43247-023-01078-9)
+
 (September 2023) Our paper investigating shadow effect on spectral vegetation greenness published in Nature Ecology & Evolution. Congratulations to all supportive co-authors. [[Paper]](https://doi.org/10.1038/s41559-023-02187-6)
 
 (August 2023) Our paper investigating impacts of 2-degree global warming on global land is featured in NASA [[Press]](https://www.nasa.gov/centers-and-facilities/ames/nasa-study-reveals-compounding-climate-risks-at-two-degrees-of-warming/) and many media outlets.
